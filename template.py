@@ -11,10 +11,10 @@ list_of_files = [
     f"src/{project_name}/__init__.py", # Initialize the package directory
     f"src/{project_name}/components/__init__.py", # Initialize components sub-package
     f"src/{project_name}/utils/__init__.py", # Initialize utils sub-package
-    f"src{project_name}/config/__init__.py", # Initialize config sub-package
+    f"src/{project_name}/config/__init__.py", # Initialize config sub-package
     f"src/{project_name}/config/configuration.py", # Configuration file for the project
     f"src/{project_name}/pipeline/__init__.py", # Initialize pipeline sub-package
-    f"src{project_name}/entity/__init__.py", # Initialize entity sub-package
+    f"src/{project_name}/entity/__init__.py", # Initialize entity sub-package
     f"src/{project_name}/constants/__init__.py", # Initialize constants sub-package
     "config/config.yaml", # Main configuration file
     "dvc.yaml", # DVC pipeline file
