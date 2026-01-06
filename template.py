@@ -22,6 +22,7 @@ list_of_files = [
     "requirements.txt", # Requirements file for dependencies
     "setup.py", # Setup file for packaging
     "research/trials.ipynb", # collab notebook for research trials
+    "templates/index.html", # HTML template file
 ]
 
 for filepath in list_of_files:
